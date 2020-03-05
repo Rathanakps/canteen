@@ -96,4 +96,21 @@ ul li a:hover{
     background-size: cover;
 }
 
+.text{
+    background: rgba(0,0,0,0.5);
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+.btn{
+    width: 150px;
+    padding: 10px;
+    cursor: pointer;
+    background: rgba(0,191,255);
+    color: #ffffff;
+    border:none;
+    margin-bottom: 20px;
+}
 
